@@ -3,6 +3,7 @@ Repository of Delovan Kasim Ali
 
 Exercise 1:
 
+
 OBS: Følgende Exercise er lavet i Java.
 
 For at compile og køre programmet benyttes en vilkårlig Java compiler.
@@ -10,6 +11,7 @@ For at compile og køre programmet benyttes en vilkårlig Java compiler.
 
 
 Exercise 2:
+
 
 OBS: Der skal benyttes en linux distrubition til at køre følgende. Kan også køres på windows med en generisk c compiler.
 
